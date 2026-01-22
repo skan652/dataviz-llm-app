@@ -2,12 +2,10 @@ FROM python:3.11
 
 WORKDIR /app
 
-COPY pyproject.toml uv.lock ./
+COPY requirements.txt .
 
 RUN pip install --upgrade pip
-RUN pip install uv
-RUN uv sync --no-cache
-RUN pip install uvicorn
+RUN pip install -r requirements.txt
 
 COPY . .
 
