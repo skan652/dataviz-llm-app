@@ -1,0 +1,31 @@
+date,product_category,product_name,price,quantity_sold,revenue,customer_age,customer_gender,region,payment_method,customer_satisfaction
+2024-01-15,Electronics,Smartphone,599,45,26955,28,M,North,Credit Card,4.5
+2024-01-15,Electronics,Laptop,1299,12,15588,35,F,South,PayPal,4.8
+2024-01-15,Clothing,T-Shirt,25,120,3000,22,M,East,Credit Card,4.2
+2024-01-16,Electronics,Headphones,89,78,6942,26,F,West,Debit Card,4.6
+2024-01-16,Home,Coffee Maker,149,34,5066,42,M,North,Credit Card,4.3
+2024-01-17,Clothing,Jeans,65,95,6175,30,F,South,PayPal,4.4
+2024-01-17,Electronics,Tablet,399,28,11172,33,M,East,Credit Card,4.7
+2024-01-18,Books,Novel,15,200,3000,45,F,West,Debit Card,4.9
+2024-01-18,Home,Blender,79,56,4424,38,M,North,PayPal,4.1
+2024-01-19,Clothing,Sneakers,110,67,7370,25,F,South,Credit Card,4.6
+2024-01-19,Electronics,Smartwatch,249,41,10209,29,M,East,Credit Card,4.5
+2024-01-20,Books,Cookbook,22,145,3190,50,F,West,Debit Card,4.8
+2024-01-20,Home,Vacuum Cleaner,199,23,4577,44,M,North,PayPal,4.4
+2024-01-21,Electronics,Camera,899,15,13485,36,F,South,Credit Card,4.9
+2024-01-21,Clothing,Jacket,85,88,7480,31,M,East,Debit Card,4.3
+2024-01-22,Electronics,Gaming Console,499,32,15968,24,M,West,Credit Card,4.7
+2024-01-22,Home,Microwave,129,47,6063,40,F,North,PayPal,4.2
+2024-01-23,Books,Biography,18,167,3006,48,M,South,Debit Card,4.6
+2024-01-23,Clothing,Dress,75,102,7650,27,F,East,Credit Card,4.5
+2024-01-24,Electronics,Monitor,349,26,9074,32,M,West,PayPal,4.8
+2024-01-24,Home,Air Purifier,179,38,6802,43,F,North,Credit Card,4.4
+2024-01-25,Clothing,Sweater,55,115,6325,29,M,South,Debit Card,4.3
+2024-01-25,Electronics,Wireless Mouse,35,156,5460,26,F,East,PayPal,4.1
+2024-01-26,Books,Travel Guide,20,178,3560,37,M,West,Credit Card,4.7
+2024-01-26,Home,Toaster,45,89,4005,41,F,North,Debit Card,4.2
+2024-01-27,Electronics,External SSD,159,52,8268,34,M,South,PayPal,4.6
+2024-01-27,Clothing,Scarf,30,134,4020,28,F,East,Credit Card,4.4
+2024-01-28,Electronics,Bluetooth Speaker,79,91,7189,25,M,West,Debit Card,4.5
+2024-01-28,Home,Desk Lamp,39,123,4797,39,F,North,PayPal,4.3
+2024-01-29,Books,Self-Help,16,189,3024,46,M,South,Credit Card,4.8

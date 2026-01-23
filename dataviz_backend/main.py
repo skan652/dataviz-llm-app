@@ -53,7 +53,7 @@ async def generate_visualization(request: GenerateVizRequest):
             csv_data=request.csv_data
         )
         return result
-    
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
