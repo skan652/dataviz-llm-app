@@ -105,9 +105,9 @@ pytest tests/
 
 ##  Contributeurs
 
-- (https://github.com/keita223)
-- (https://github.com/Lindabenrajab)
-- (https://github.com/skan652)
+- [Mamadi Keita](https://github.com/keita223)
+- [Linda Ben Rajab](https://github.com/Lindabenrajab)
+- [Skander Adam Afi](https://github.com/skan652)
 
 **Reviewer :** [Hadrien Mariaccia](https://github.com/brash6) - Enseignant
 
